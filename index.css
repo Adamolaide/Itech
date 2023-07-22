@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#back{
+  background: linear-gradient(rgb(0,0,0,0.8),rgb(0,0,0,0.8)),url('Student1.jpg');
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.one{
+display: flex;
+justify-content: space-between;
+padding: 10px 30px;
+background-color: black;
+color: white;
+}
+.non{
+  display: flex;
+}
+.non li{
+  padding: 0px 5px;
+}
+.none{
+  display: flex;
+}
+li{
+  list-style-type: none;
+}
+.none li{
+  padding: 0px 5px;
+}
+nav{
+  color:white;
+  display: flex;
+  padding: 20px 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav2{
+display: flex;
+}
+
+.nav2 li {
+padding: 0px 10px;
+color: white;
+}
+
+.text3{
+  color: white;
+  font-size: 40px;
+}
+.get{
+  padding: 60px 150px 20px;
+}
+
